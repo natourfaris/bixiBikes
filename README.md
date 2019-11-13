@@ -1,0 +1,3 @@
+# Montreal Bixi Bikeshare Ridership Data Analysis
+
+An analysis of 2019 data from Montreal's Bixi bikeshare program. I do some basic data exploration and visualization, then use clustering algorithms to find patterns in geographic and temporal usage among the system's most common users. In addition to viewing the analysis here, you can also use NB Viewer to see a better-rendered version. You can do so by following [this](https://nbviewer.jupyter.org/github/natourfaris/bixiBikes/blob/master/Montreal%20Bixi%20Bikeshare%20Data%20Analysis.ipynb) link.
